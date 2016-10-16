@@ -39,8 +39,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Challenges: adding the UILabel for Network Error - I wasn't initiating it correctly
-I'm having issues creating icons and using images for the tabBar. I need to spend time on this to understand it once and for all.
+- Challenges: adding the UILabel for Network Error - I wasn't initiating it correctly
+- I'm having issues creating icons and using images for the tabBar. I need to spend time on this to understand it once and for all.
 
 ## License
 
